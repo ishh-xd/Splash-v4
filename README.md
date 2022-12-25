@@ -1,2 +1,11 @@
-# Splash-v4
-Official source code of Splash discord bot. | Version: 4.0
+# Splash-V4
+
+__Features__
+
+- Moderation
+- Automod
+- Utility
+- Information etc.
+
+
+⚠ Not published yet. Will be published as soon as this repo cross 20 ⭐ stars. 
